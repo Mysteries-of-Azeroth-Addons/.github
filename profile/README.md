@@ -1,0 +1,1 @@
+- TWPulse : Displays a pulse animation for spells when their cooldown is finished. Allows visual tracking of ready spells and customization of animation size and position.

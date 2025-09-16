@@ -1,1 +1,4 @@
-- TWPulse : Displays a pulse animation for spells when their cooldown is finished. Allows visual tracking of ready spells and customization of animation size and position.
+# Addons Mysteries of Azeroth (Turtle WoW)
+Sauvegarde des addons utilisés sur le client WoW Vanilla 1.12
+
+- [TWPulse](https://github.com/Mysteries-of-Azeroth-Addons/TWPulse) : Displays a pulse animation for spells when their cooldown is finished.

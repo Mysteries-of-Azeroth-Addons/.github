@@ -6,4 +6,6 @@ Sauvegarde des addons utilisés sur le client WoW Vanilla 1.12 avec prise en cha
   - [AtlasLoot](https://github.com/Mysteries-of-Azeroth-Addons/AtlasLoot) : Tables des butins instances et crafting.
   - [AtlasQuest](https://github.com/Mysteries-of-Azeroth-Addons/AtlasQuest) : Liste des quêtes liées aux instances.
 - [AutoLFM](https://github.com/Mysteries-of-Azeroth-Addons/AutoLFM) : Gestion de message chat automatique pour trouver d'autres joueurs.
+- [Aux](https://github.com/Mysteries-of-Azeroth-Addons/aux-addon) : Amélioration hotêl des ventes.
+- [Bagshui](https://github.com/Mysteries-of-Azeroth-Addons/Bagshui) : Organisation des sacs.
 - [TWPulse](https://github.com/Mysteries-of-Azeroth-Addons/TWPulse) : Animation lorsqu'un cooldown de sort est terminé.
